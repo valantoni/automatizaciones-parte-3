@@ -1,0 +1,5 @@
+Faker==23.2.0
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+pyttsx3==2.90
+twilio==8.13.0
