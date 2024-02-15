@@ -1,4 +1,4 @@
-# Proyecto de Automatización con Python
+# Proyectos de Automatización con Python
 
 Este repositorio consta de dos proyectos enfocados en realizar automatizaciones con python
 
